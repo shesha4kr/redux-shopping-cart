@@ -1,3 +1,12 @@
+# About This Project
+
+This project is simple implementation of Shopping Cart using REACT JS + REDUX.
+
+-> User will be presented with homepage which will contain list of items to be shopped with
+-> User can add multiple items in the cart and navigate to cart to see/modify the cart items
+-> Redux is used to store the states of the cart items in Redux Store
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
