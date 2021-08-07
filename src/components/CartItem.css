@@ -1,0 +1,49 @@
+.cart-item-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  column-gap: 35px;
+  row-gap: 5px;
+  width: 1000px;
+}
+
+img {
+  justify-self: end;
+}
+
+.control-count {
+  align-self: end;
+  justify-self: end;
+  margin-left: 360px;
+}
+
+.cart-item-container div {
+  justify-self: start;
+  align-self: center;
+}
+
+.item-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.item-price {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.control-count button {
+  height: 30px;
+  width: 30px;
+}
+
+.total {
+  margin-top: 50px;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.total div {
+  text-align: center;
+}

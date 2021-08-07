@@ -1,0 +1,8 @@
+.float-modal {
+  position: absolute;
+  height: 30px;
+  width: 100%;
+  margin: 100px 100px 0px 740px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}

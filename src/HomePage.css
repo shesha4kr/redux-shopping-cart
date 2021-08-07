@@ -1,0 +1,8 @@
+.all-item-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: auto;
+  padding: 150px 30px 20px 30px;
+  row-gap: 50px;
+  text-align: center;
+}

@@ -1,0 +1,34 @@
+.header {
+  position: fixed;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: lightblue;
+  padding: 30px 20px 0px 20px;
+  width: 1600px;
+  text-align: center;
+}
+
+.heading {
+  padding-bottom: 20px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.home-icon {
+  position: fixed;
+  margin-left: 1420px;
+}
+
+.cart-icon {
+  position: fixed;
+  margin-left: 1450px;
+}
+
+.number-of-items {
+  position: fixed;
+  font-weight: bold;
+  color: blue;
+  margin-left: 1465px;
+  margin-top: -10px;
+  font-size: 0.8rem;
+}

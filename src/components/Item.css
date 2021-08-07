@@ -1,0 +1,7 @@
+.details {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: auto;
+  row-gap: 5px;
+  font-weight: bold;
+}
